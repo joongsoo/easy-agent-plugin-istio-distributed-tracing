@@ -1,6 +1,8 @@
 # easy-agent-plugin-istio-tracing
 This project is plugin of easy-agent for istio distributed tracing.
 
+Istio distributed tracing : [https://istio.io/docs/tasks/observability/distributed-tracing/](https://istio.io/docs/tasks/observability/distributed-tracing/)
+
 <br/>
 
 ## How to use
