@@ -8,6 +8,7 @@
     <artifactId>easy-agent-plugin-istio-tracing</artifactId>
     <version>0.4.0-RELEASE</version>
 
+    <name>easy-agent-plugin-istio-tracing</name>
     <url>https://github.com/joongsoo/easy-agent-plugin-istio-tracing</url>
     <description>Plugin of easy-agent for istio distributed tracing.</description>
 
@@ -43,6 +44,7 @@
             <groupId>software.fitz</groupId>
             <artifactId>easy-agent-api</artifactId>
             <version>0.4.0-RELEASE</version>
+            <scope>provided</scope>
         </dependency>
 
 
